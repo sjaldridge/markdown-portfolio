@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Me
+
 
 * My name is Sarah, but some people call me Sa
 
