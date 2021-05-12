@@ -1,21 +1,32 @@
 ---
 layout: default
 ---
+# Me
 
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
+My name is Sarah, but some people call me Sa
 
 <br>
 
-{% include 03-links.md %}
+This is what I look [like](https://twitter.com/SarahAldridge91/photo)
 
 <br>
 
-{% include 04-lists.md %}
+This is my [Twitter](https://twitter.com/SarahAldridge91) page
 
 <br>
+
+## Here is a list of things I like
+<br>
+### Please enjoy
+1. The outdoors
+<br>
+2. Sunshine
+<br>
+3. Puppies 🐶 
+   1. Fluffy ones 🐕
+   2. Not so fluffy ones 🦮
+   3. Wrinkly ones
+   4. Ones with big ears 🐕‍🦺
+   5. etc.
 
 {% include 05-emphasis.md %}
