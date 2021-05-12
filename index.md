@@ -3,15 +3,15 @@ layout: default
 ---
 # Me
 
-My name is Sarah, but some people call me Sa
+* My name is Sarah, but some people call me Sa
 
 <br>
 
-This is what I look [like](https://twitter.com/SarahAldridge91/photo)
+* This is what I look [like](https://twitter.com/SarahAldridge91/photo)
 
 <br>
 
-This is my [Twitter](https://twitter.com/SarahAldridge91) page
+* This is my [Twitter](https://twitter.com/SarahAldridge91) page
 
 <br>
 
